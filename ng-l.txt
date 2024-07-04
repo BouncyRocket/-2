@@ -1,1 +1,1 @@
-tcp://0.tcp.eu.ngrok.io:11059
+tcp://7.tcp.eu.ngrok.io:19577
